@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 7f6daa2702fd5f04dbef8598782a0f30, type: 3}
-  m_Name: 7A
+  m_Name: 7a
   m_EditorClassIdentifier: 
   narrativeText: '*Abre la tienda*'
   alternative: []

@@ -10,9 +10,12 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 7f6daa2702fd5f04dbef8598782a0f30, type: 3}
-  m_Name: 8b
+  m_Name: 4b
   m_EditorClassIdentifier: 
-  narrativeText: "Est\xE1 bien, tal vez en otro momento.\n"
+  narrativeText: "Jaja me alegro, evidentemente soy yo, Liam, el rapero m\xE1s famoso
+    de aqu\xED, no hay otro igual.\r"
   alternative: []
-  arrayReferences: 
-  dialogEnd: 1
+  arrayReferences: 05000000
+  protagonist: 0
+  dialogEnd: 0
+  personWho: {fileID: 0}
